@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1699812718 source:c:\pwr\github\pp1-lista4\prog2_2_32\main.cpp
+	<iostream>
+	<string.h>
+
